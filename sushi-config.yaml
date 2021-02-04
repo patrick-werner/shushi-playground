@@ -1,0 +1,11 @@
+# ╭──────────────────────────────────────ImplementationGuide───────────────────────────────────────╮
+# │  The properties below are used to create the ImplementationGuide resource. For a list of       │
+# │  supported properties, see: https://fshschool.org/sushi/configuration/                         │
+# ╰────────────────────────────────────────────────────────────────────────────────────────────────╯
+id: fhir.example
+canonical: http://fhir.abda.de/eRezeptAbgabedaten
+name: eRezeptAbgabedaten-fsh
+status: draft
+version: 0.1.0
+fhirVersion: 4.0.1
+FSHOnly: true
