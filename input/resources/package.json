@@ -1,0 +1,14 @@
+{
+  "name": "de.abda.eRezeptAbgabedaten",
+  "version": "0.0.1-alpha",
+  "description": "Put a description here",
+  "author": "pwerner",
+  "fhirVersions": [
+    "4.0.1"
+  ],
+  "devDependencies": null,
+  "canonicals": null,
+  "dependencies": {
+    "de.basisprofil.r4": "0.9.12"
+  }
+}

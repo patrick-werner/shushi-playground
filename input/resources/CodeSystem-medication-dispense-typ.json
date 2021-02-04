@@ -1,0 +1,21 @@
+{
+  "resourceType": "CodeSystem",
+  "status": "active",
+  "content": "complete",
+  "name": "MedicationDispenseTyp",
+  "id": "medication-dispense-typ",
+  "title": "MedicationDispense Ausprägungen innerhalb des eAbgabdatensatzes",
+  "version": "0.1.0",
+  "url": "http://fhir.abda.de/eRezeptAbgabedaten/CodeSystem/medication-dispense-typ",
+  "concept": [
+    {
+      "code": "abgabeinformationen",
+      "display": "MedicationDispense repräsentiert Abgabinformationen"
+    },
+    {
+      "code": "ZusatzdatenHerstellung",
+      "display": "MedicationDispense repräsentiert ZusatzdatenHerstellung"
+    }
+  ],
+  "count": 2
+}

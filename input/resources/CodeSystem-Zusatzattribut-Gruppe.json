@@ -1,0 +1,69 @@
+{
+  "resourceType": "CodeSystem",
+  "status": "active",
+  "content": "complete",
+  "name": "ZusatzattributGruppe",
+  "id": "Zusatzattribut-Gruppe",
+  "title": "Zusatzattributggruppe",
+  "version": "0.1.0",
+  "url": "http://fhir.abda.de/eRezeptAbgabedaten/CodeSystem/Zusatzattribut-Gruppe",
+  "concept": [
+    {
+      "code": "1",
+      "display": "Markt"
+    },
+    {
+      "code": "2",
+      "display": "Rabattvertragserfüllung"
+    },
+    {
+      "code": "3",
+      "display": "Preisgünstiges FAM"
+    },
+    {
+      "code": "4",
+      "display": "Import-FAM"
+    },
+    {
+      "code": "5",
+      "display": "Mehrkostenübernahme"
+    },
+    {
+      "code": "6",
+      "display": "Wunscharzneimittel"
+    },
+    {
+      "code": "7",
+      "display": "Wirkstoffverordnung"
+    },
+    {
+      "code": "8",
+      "display": "Ersatzverordnung"
+    },
+    {
+      "code": "9",
+      "display": "künstliche Befruchtung"
+    },
+    {
+      "code": "10",
+      "display": "einzeln importierte Fertigarzneimittel (§ 73 Abs. 3 AMG)"
+    },
+    {
+      "code": "11",
+      "display": "Abgabe im Notdienst"
+    },
+    {
+      "code": "12",
+      "display": "zusätzliche Abgabeangaben"
+    },
+    {
+      "code": "13",
+      "display": "Gruppe für Genehmigungen"
+    },
+    {
+      "code": "14",
+      "display": "Gruppe AC/TK"
+    }
+  ],
+  "count": 14
+}

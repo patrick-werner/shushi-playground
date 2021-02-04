@@ -1,0 +1,21 @@
+{
+  "resourceType": "CodeSystem",
+  "status": "active",
+  "content": "complete",
+  "name": "ZusatzattributSchluesselMehrkostenuebernahme",
+  "id": "Zusatzattribut-SchluesselMehrkostenuebernahme",
+  "title": "ZusatzattributschluesselMehrkostenuebernahme",
+  "version": "0.1.0",
+  "url": "http://fhir.abda.de/eRezeptAbgabedaten/CodeSystem/Zusatzattribut-SchluesselMehrkostenuebernahme",
+  "concept": [
+    {
+      "code": "1",
+      "display": "Ja"
+    },
+    {
+      "code": "2",
+      "display": "Nein"
+    }
+  ],
+  "count": 2
+}

@@ -1,0 +1,30 @@
+{
+  "resourceType": "ValueSet",
+  "status": "active",
+  "name": "ZusatzattributGruppeAbgabeRangfolgeVS",
+  "id": "Zusatzattribut-GruppeAbgabeRangfolge-vs",
+  "title": "ValueSet ZusatzattributGruppe AbgabeRangfolge",
+  "version": "0.1.0",
+  "url": "http://fhir.abda.de/eRezeptAbgabedaten/ValueSet/Zusatzattribut-GruppeAbgabeRangfolge-vs",
+  "compose": {
+    "include": [
+      {
+        "system": "http://fhir.abda.de/eRezeptAbgabedaten/CodeSystem/Zusatzattribut-Gruppe",
+        "concept": [
+          {
+            "code": "2",
+            "display": "Rabattvertragserfüllung"
+          },
+          {
+            "code": "3",
+            "display": "Preisgünstiges FAM"
+          },
+          {
+            "code": "4",
+            "display": "Import-FAM"
+          }
+        ]
+      }
+    ]
+  }
+}

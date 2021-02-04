@@ -1,0 +1,21 @@
+{
+  "resourceType": "CodeSystem",
+  "status": "active",
+  "content": "complete",
+  "name": "InvoiceTyp",
+  "id": "invoice-typ",
+  "title": "Invoice Ausprägungen innerhalb des eAbgabdatensatzes",
+  "version": "0.1.0",
+  "url": "http://fhir.abda.de/eRezeptAbgabedaten/CodeSystem/invoice-typ",
+  "concept": [
+    {
+      "code": "abrechnungszeilen",
+      "display": "Abrechnungszeilen eines eAbgabdatensatzes"
+    },
+    {
+      "code": "zusatzdatenEinheit",
+      "display": "Abrechnungspositionen einer Einheit (ZusatzdatenHerstellung)"
+    }
+  ],
+  "count": 2
+}

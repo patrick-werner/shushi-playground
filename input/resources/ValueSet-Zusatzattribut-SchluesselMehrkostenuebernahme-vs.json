@@ -1,0 +1,16 @@
+{
+  "resourceType": "ValueSet",
+  "status": "active",
+  "name": "ZusatzattributSchluesselMehrkostenuebernahmeVS",
+  "id": "Zusatzattribut-SchluesselMehrkostenuebernahme-vs",
+  "title": "ValueSet für ZusatzattributSchluesselMehrkostenuebernahme",
+  "version": "0.1.0",
+  "url": "http://fhir.abda.de/eRezeptAbgabedaten/ValueSet/Zusatzattribut-SchluesselMehrkostenuebernahme-vs",
+  "compose": {
+    "include": [
+      {
+        "system": "http://fhir.abda.de/eRezeptAbgabedaten/CodeSystem/Zusatzattribut-SchluesselMehrkostenuebernahme"
+      }
+    ]
+  }
+}

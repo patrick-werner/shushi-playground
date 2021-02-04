@@ -1,0 +1,25 @@
+{
+  "resourceType": "CodeSystem",
+  "status": "active",
+  "content": "complete",
+  "name": "ZusatzattributSchluesselMarkt",
+  "id": "Zusatzattribut-SchluesselMarkt",
+  "title": "ZusatzattributschluesselMarkt",
+  "version": "0.1.0",
+  "url": "http://fhir.abda.de/eRezeptAbgabedaten/CodeSystem/Zusatzattribut-SchluesselMarkt",
+  "concept": [
+    {
+      "code": "1",
+      "display": "Generika"
+    },
+    {
+      "code": "2",
+      "display": "Solitär"
+    },
+    {
+      "code": "3",
+      "display": "Mehrfachvertrieb"
+    }
+  ],
+  "count": 3
+}

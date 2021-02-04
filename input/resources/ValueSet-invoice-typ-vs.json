@@ -1,0 +1,16 @@
+{
+  "resourceType": "ValueSet",
+  "status": "active",
+  "name": "InvoiceTypVS",
+  "id": "invoice-typ-vs",
+  "title": "ValueSet der Invoice Ausprägungen innerhalb des eAbgabdatensatzes",
+  "version": "0.1.0",
+  "url": "http://fhir.abda.de/eRezeptAbgabedaten/ValueSet/invoice-typ-vs",
+  "compose": {
+    "include": [
+      {
+        "system": "http://fhir.abda.de/eRezeptAbgabedaten/CodeSystem/invoice-typ"
+      }
+    ]
+  }
+}

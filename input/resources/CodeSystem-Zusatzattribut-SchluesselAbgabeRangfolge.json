@@ -1,0 +1,33 @@
+{
+  "resourceType": "CodeSystem",
+  "status": "active",
+  "content": "complete",
+  "name": "ZusatzattributSchluesselAbgabeRangfolge",
+  "id": "Zusatzattribut-SchluesselAbgabeRangfolge",
+  "title": "ZusatzattributschluesselAbgabeRangfolge",
+  "version": "0.1.0",
+  "url": "http://fhir.abda.de/eRezeptAbgabedaten/CodeSystem/Zusatzattribut-SchluesselAbgabeRangfolge",
+  "concept": [
+    {
+      "code": "0",
+      "display": "nicht relevant"
+    },
+    {
+      "code": "1",
+      "display": "ja, abgegeben"
+    },
+    {
+      "code": "2",
+      "display": "nein, Nicht-Verfügbarkeit"
+    },
+    {
+      "code": "3",
+      "display": "nein, dringender Fall"
+    },
+    {
+      "code": "4",
+      "display": "nein, sonstige Bedenken"
+    }
+  ],
+  "count": 5
+}

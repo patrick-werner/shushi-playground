@@ -1,0 +1,16 @@
+{
+  "resourceType": "ValueSet",
+  "status": "active",
+  "name": "MedicationDispenseTypeVS",
+  "id": "medication-dispense-typ-vs",
+  "title": "ValueSet für den MedicationDispense.type im eAbgabdatensatz",
+  "version": "0.1.0",
+  "url": "http://fhir.abda.de/eRezeptAbgabedaten/ValueSet/medication-dispense-typ-vs",
+  "compose": {
+    "include": [
+      {
+        "system": "http://fhir.abda.de/eRezeptAbgabedaten/CodeSystem/medication-dispense-typ"
+      }
+    ]
+  }
+}
